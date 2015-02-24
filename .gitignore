@@ -1,0 +1,10 @@
+Debug/
+Release/
+ScreenShot/
+
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.ipch
+*.bak
